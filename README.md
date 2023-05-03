@@ -1,2 +1,2 @@
 # CPU_emulator
-CS 520 - Computer Architecture & Organ
+Binghamton University CS 520 - Computer Architecture & Organ
